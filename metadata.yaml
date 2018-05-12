@@ -1,4 +1,8 @@
 _repo: The-Mountebank_8430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Locke, William John
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1324
     wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
 description: British clown becomes a major-general.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8430#The-Mountebank
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
